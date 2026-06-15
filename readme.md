@@ -8,8 +8,6 @@ This repository contains the SQL schema, seed data, and sample queries for a Pos
 
 ![ERD Diagram](./ERD/ERD.png)
 
-> **Note:** To add your own ERD diagram, simply drop the image into your repository and update the path in this `README.md` file (e.g., `./images/erd.png`).
-
 ---
 
 ## 🏗️ Database Schema
