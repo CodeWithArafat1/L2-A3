@@ -4,7 +4,6 @@ This repository contains the SQL schema, seed data, and sample queries for a Pos
 
 ## 📊 Entity-Relationship Diagram (ERD)
 
-*(Replace the placeholder image below with the actual ERD diagram of your database)*
 
 ![ERD Diagram](./ERD/ERD.png)
 
